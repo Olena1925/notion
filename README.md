@@ -16,8 +16,6 @@ Notion offers deep integration with Google Workspace, allowing users to easily c
 - **Calendar Integration:** Sync Google Calendar events with Notion to manage your schedules.
 - **Single Sign-On (SSO):** Streamline login processes for enterprise teams using Google Workspace SSO.
 
-**[View the integration details here](https://www.notion.so/help/google-drive-and-notion).**
-
 ### 2. Dynamic Databases and Relational Data
 
 Notion's databases are highly customizable and can be linked to one another, enabling complex data management. You can create relational databases that reference each other, allowing for dynamic data tracking across different parts of your workspace. For example, you can create a task database that links to a project database, making it easy to see which tasks belong to which projects.
@@ -41,7 +39,7 @@ Notion excels in facilitating collaboration across teams, offering features like
 
 See how to collaborate with your team in Notion:
 <div class="video-container">
-  <iframe width="1519" height="561" src="https://www.youtube.com/embed/5dBY7PXEDP0" title="How to Use Notion for Collaboration with Other People" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="700" height="400" src="https://www.youtube.com/embed/5dBY7PXEDP0" title="How to Use Notion for Collaboration with Other People" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 ### 4. Indexing and Feedback Mechanism
 
@@ -77,7 +75,7 @@ Here’s a step-by-step guide to creating a seamless workflow between Notion and
 ### Step 3: Knowledge Team in Notion
 - **Set Up Team in Notion:** Share Notion pages with your team and enable editing permissions. Embed live Google Docs to allow for real-time collaboration.
 <div class="video-container">
-  <iframe width="1536" height="730" src="https://www.youtube.com/embed/5rWbNTrIJQI" title="How to build a workspace for your team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="700" height="400" src="https://www.youtube.com/embed/5rWbNTrIJQI" title="How to build a workspace for your team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ### Step 4: Manage Tasks and Events
