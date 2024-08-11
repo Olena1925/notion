@@ -91,4 +91,4 @@ Here’s a step-by-step guide to creating a seamless workflow between Notion and
 
 > Best Notion Tip! Insert `Table of Content` for the Notion Mobile Device Owners.
 
-<iframe width="356" height="200" src="https://www.youtube.com/embed/kV626LjZ2xs" title="Notion is so much better on your phone once you do this" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/kV626LjZ2xs/0.jpg)](https://www.youtube.com/watch?v=VkV626LjZ2xs)
