@@ -39,8 +39,9 @@ Notion excels in facilitating collaboration across teams, offering features like
 
 - **Comments and Mentions:** You can leave comments on any block within a Notion page and mention team members to bring their attention to specific items. For example, while reviewing a document, you can highlight a section and leave a comment for a colleague, asking for their input.
 
-See how to collaborate with your team in Notion
-<iframe width="1519" height="561" src="https://www.youtube.com/embed/Z5GuqRvkEYQ" title="Notion at Work: Collaborate with Notion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+See how to collaborate with your team in Notion:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z5GuqRvkEYQ" title="Notion at Work: Collaborate with Notion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 4. Indexing and Feedback Mechanism
 
@@ -76,7 +77,7 @@ Here’s a step-by-step guide to creating a seamless workflow between Notion and
 ### Step 3: Collaborate in Real-Time
 - **Set Up Team in Notion:** Share Notion pages with your team and enable editing permissions. Embed live Google Docs to allow for real-time collaboration.
 
-<iframe width="914" height="514" src="https://www.youtube.com/embed/5rWbNTrIJQI" title="How to build a workspace for your team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5rWbNTrIJQI" title="How to build a workspace for your team" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Step 4: Manage Tasks and Events
 - **Task Assignments:** Use Notion’s task management tools to assign tasks to team members. Link these tasks to relevant Google Docs and Google Calendar events.
@@ -90,4 +91,4 @@ Here’s a step-by-step guide to creating a seamless workflow between Notion and
 
 > Best Notion Tip! Insert `Table of Content` for the Notion Mobile Device Owners.
 
-<iframe width="356" height="634" src="https://www.youtube.com/embed/kV626LjZ2xs" title="Notion is so much better on your phone once you do this" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="356" height="200" src="https://www.youtube.com/embed/kV626LjZ2xs" title="Notion is so much better on your phone once you do this" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
